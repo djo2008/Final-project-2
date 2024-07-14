@@ -1,0 +1,39 @@
+/* Showroom.css */
+
+.showroom {
+    text-align: center;
+    padding: 20px;
+}
+
+.car-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around; /* Adjust as needed */
+    gap: 20px;
+}
+
+.car {
+    background-color: #333; /* Slightly lighter shade for the car sections */
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+    max-width: calc(33.33% - 20px); /* Calculate width for 3 cars in a row */
+    flex: 1 0 30%; /* Adjust flex properties to maintain equal width */
+    box-sizing: border-box;
+}
+
+.car img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.car h2 {
+    margin: 10px 0 5px;
+    color: #fff;
+}
+
+.car p {
+    margin: 5px 0;
+    color: #ccc;
+}

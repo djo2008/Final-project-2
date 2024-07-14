@@ -1,0 +1,86 @@
+
+const Cars = [
+        {  
+            type: "Nissan Patrol",
+            Cylinders:"8 Cylinders",
+            Enginecapacity:"5.6",
+            Enginetype:"V-type",
+            FuelType:"Petrol",
+            imageURL:"https://res.cloudinary.com/dpx3r96pd/image/upload/v1719741192/2023-Nissan-Armada-front_52057_032_2400x1800_QAC_nologo_kfxeoj.avif",
+            },
+        {
+            type:"Nissan qashqai",
+            Cylinders:"4 Cylinders",
+            Enginecapacity: "1.3",
+            Enginetype: "I-type",
+            FuelType: "Petrol",
+            imageURL: "https://res.cloudinary.com/dpx3r96pd/image/upload/v1719743533/nissan-qashqai-nissan-x-trail-car-nissan-navara-nissan-car-removebg_gu7ll6.png",
+          },
+    
+          {
+            type: "Nissan Navara",
+            Cylinders: "4 Cylinders",
+            Enginecapacity: "2.3",
+            Enginetype: "I-type",
+            FuelType: "Diesel",
+            imageURL: "https://res.cloudinary.com/dpx3r96pd/image/upload/v1719743778/nissan-navara-white-s-qm1-ffffff-removebg-preview_cmnliu.png",
+          },
+          {
+            type: "GT-R",
+            Cylinders: "6 Cylinders Twin turbo",
+            Enginecapacity: "3.8",
+            Enginetype: "V-type",
+            FuelType: "Petrol",
+            imageURL: "https://res.cloudinary.com/dpx3r96pd/image/upload/v1719744241/white-background-nissan-gt-r-r35-nismo-hd-wallpaper-preview-removebg-preview_yclzhq.png",
+          },
+          {
+            type: "Nissan frontier",
+            Cylinders: "6 Cylinders",
+            Enginecapacity: "3.5",
+            Enginetype: "V-type",
+            FuelType: "Petrol",
+            imageURL: "https://res.cloudinary.com/dpx3r96pd/image/upload/v1719744565/83f46f8a0a62b3bcbe4094132b72c7e2-removebg-preview_nknydi.png",
+          },
+          {
+            type: "Nissan Titan",
+            Cylinders: "8 Cylinders",
+            Enginecapacity: "5.6",
+            Enginetype: "V-type",
+            FuelType: "Petrol",
+            imageURL: "https://res.cloudinary.com/dpx3r96pd/image/upload/v1719744784/isolated-nissan-titan-ev-electric-fullsize-pickup-truck-2024-model-k-white-background-photo_655090-943394-removebg-preview_kuagyj.png",
+          },
+          {
+            type: "Nissan Pathefinder",
+            Cylinders: "6 Cylinders",
+            Enginecapacity: "3.5",
+            Enginetype: "V-type",
+            FuelType: "Petrol",
+            imageURL: "https://res.cloudinary.com/dpx3r96pd/image/upload/v1719744896/WHITE_cc_2024NIS070032_01_1280_QAB-removebg-preview_hcough.png",
+          },
+          {
+            type: "Nissan Rogue",
+            Cylinders: "4 Cylinders",
+            Enginecapacity: "2.5",
+            Enginetype: "I-type",
+            FuelType: "Petrol",
+            imageURL: "https://res.cloudinary.com/dpx3r96pd/image/upload/v1719744998/9d6d30c173587d49701a08365d6725b7-removebg-preview_nofmnb.png",
+          },
+          {
+            type: "Nissan Sentra",
+            Cylinders: "4 Cylinders",
+            Enginecapacity: "2.0",
+            Enginetype: "I -type",
+            FuelType: "Petrol",
+            imageURL: "https://rehs.cloudinary.com/dpx3r96pd/image/upload/v1719745070/d038786c0f3bbfd4aec57183c452144a-removebg-preview_ljlmfq.png",
+          },
+          {
+            type: "Nissan Kicks",
+            Cylinders: "4 Cylinders",
+            Enginecapacity: "1.6",
+            Enginetype: "I-type",
+            FuelType: "Petrol",
+            imageURL: "https://res.cloudinary.com/dpx3r96pd/image/upload/v1719745294/model1-removebg-preview_ggvnrn.png",
+          },
+  ];
+  
+export default Showroom;
